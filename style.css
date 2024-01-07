@@ -118,7 +118,7 @@ cursor: pointer;
 
     }  .btnNight{
 
-        display: flex;
+        display: none;
         position: relative;
         left: 20px;
         height: 20px;
